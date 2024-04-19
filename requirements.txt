@@ -1,0 +1,7 @@
+aiosqlite==0.20.0
+SQLAlchemy==2.0.2
+pydantic==2.7.0
+types-SQLAlchemy==1.4.53.38
+
+pyright==1.1.359
+flake8==7.0.0 

@@ -1,0 +1,13 @@
+{
+    "include": ["./task_1/*.py", "./task_2/*.py"],
+    "exclude": ["**/__pycache__/**"],
+    "python": {
+        "pythonVersion": "3.12",
+        "venvPath": "./env",
+        "reportMissingImports": true,
+        "reportMissingTypeStubs": "warning",
+        "reportGeneralTypeIssues": "warning",
+        "reportInferredTypes": true,
+        "strict": true
+    }
+}
